@@ -26,7 +26,7 @@ pip install requests beautifulsoup4 lxml
 To download media from a specific Bunkr album, run the script as follows:
 
 ```bash
-python script.py "https://bunkrrr.org/a/mghxU8fP"
+python script.py "https://bunkrrr.org/a/********"
 ```
 
 You can also omit the quotes if your URL does not contain special characters or spaces:
